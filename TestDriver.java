@@ -3,14 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package zhao.cis4110.classdemo;
 
 import java.math.*;
 import java.util.*;
 /**
  *
  * 
- * @author echo
  */
 public class TestDriver {
     public static void main(String[] args) {

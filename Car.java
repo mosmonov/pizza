@@ -3,12 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package zhao.cis4110.classdemo;
 
-/**
- *
- * @author echo
- */
 public class Car {
      enum CARTYPE {SUBCOMPACT,COMPACT,MIDSIZE,FULLSIZE};
      
