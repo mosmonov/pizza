@@ -29,7 +29,7 @@ public class Pizzeria {
 		return "No pizza found.";
     }
     
-    public void pizzeria(String pizzaNum){
+    public void pizzaDelivery(String pizzaNum){
         for(int i=0;i<5;i++) {
             if(pizzaInventory[i].getPizzaNum() == pizzaNum ) {//found pizza type
                 pizzaInventory[i].toggleAvail(); //set availability to true
