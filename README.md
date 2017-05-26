@@ -18,7 +18,7 @@ public String pizzeria
         
         dominoPizzeria.setInventory(pizzas);
         dominoPizzeria.pizzeria(Pizza.PIZZATYPE.SMALL);
-dominoPizzeria.pizzaDelivery("p1"); 
+        dominoPizzeria.pizzaDelivery("p1"); 
 
 # -----> Interface
   avail = !avail;
